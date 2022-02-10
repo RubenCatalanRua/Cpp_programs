@@ -1,3 +1,5 @@
+// Outputs a cube based on the measures for width, length and depth
+
 #include <iostream>
 using namespace std;
 
