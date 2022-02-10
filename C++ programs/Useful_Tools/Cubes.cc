@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     int a,b,c;
+    cout << "Enter the length, tallness and width of the cube" << endl;
     while (cin >> a >> b >> c) {
         for (int i = 0; i < c; ++i) cout << " ";
         for (int i = 0; i < a + 1; ++i) cout << "_";
@@ -40,5 +41,6 @@ int main() {
         for (int i = 0; i < a; ++i) cout << "_";
         cout << "|" << "/" << endl;
         cout << endl;
+        cout << "Enter the length, tallness and width of the cube" << endl;
     }
 }
