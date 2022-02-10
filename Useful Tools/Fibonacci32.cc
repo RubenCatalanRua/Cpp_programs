@@ -1,3 +1,5 @@
+// This program ouputs the highest Fibonacci number you can write with 32 bits
+
 #include <iostream>
 #include <unistd.h>
 #include <stdint.h>
